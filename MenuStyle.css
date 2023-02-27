@@ -1,0 +1,74 @@
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("myBackgroundImage.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+  }
+  
+  header {
+    background-color:rgba(241, 177, 94, 0.774);
+    color: antiquewhite;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color:antiquewhite;
+    text-decoration: none;
+  }
+
+  nav a:hover{
+    background-color: brown;
+    color:black;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgba(241, 177, 94, 0.774);
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 30px;
+    color:antiquewhite;
+  }
+  
+  h3 {
+    margin-top: 20px;
+    color:antiquewhite;
+  }
+
+  h4 {
+    color:antiquewhite;
+  }
+
+  p {
+    color:antiquewhite;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
